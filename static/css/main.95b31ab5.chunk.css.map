@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,MACE,iBAAkB,CACnB,UAGC,sBAAuB,CACvB,yBAAkB,CAAlB,sBAAkB,CAAlB,iBAAkB,CAClB,UAAa","file":"main.95b31ab5.chunk.css","sourcesContent":["// styles go here\n.hide {\n  visibility: hidden;\n}\n\n.selected {\n  background-color: green;\n  width: fit-content;\n  color: yellow;\n}\n"]}
